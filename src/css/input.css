@@ -1,0 +1,12 @@
+/*includes all tailwind*/
+/*base >>> normalization*/
+/*components >>> create components*/
+/*utilities >>> classes*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dark {
+  background-color: #1a202c;
+  color: white;
+}
